@@ -94,12 +94,21 @@ a {
     margin-bottom: 3rem;
 }
 
+
+
+section{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
 #team{
     background-color: #f8f8f8; 
     padding: 46px 0;
+    margin-left: 0;
+    margin-right: 0;
 }
 
-section{
+.team-container{
     margin-left: 50px;
     margin-right: 50px;
 }
